@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariochiappini1996" alt="mariochiappini1996" /></a> </p>
 
-- 🔭 I’m currently working on [ChatAppPro](https://github.com/Mariochiappini1996/ChatAppPro---Progetto-Tesi-di-Laurea)
+- 🔭 I’m currently working on [MBSE Exam]([https://github.com/Mariochiappini1996/ModelBSystemEng-Satellite])
 
 - 🌱 I’m currently learning **Frameworks , QT, Android**
 
